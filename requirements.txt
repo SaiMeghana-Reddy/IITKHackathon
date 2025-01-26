@@ -1,0 +1,6 @@
+requests
+spacy
+PyPDF2
+fitz
+PyMuPDF
+python -m spacy download en_core_web_sm
